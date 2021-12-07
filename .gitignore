@@ -65,3 +65,6 @@ lib/
 
 # Private
 example
+!example/src/
+
+

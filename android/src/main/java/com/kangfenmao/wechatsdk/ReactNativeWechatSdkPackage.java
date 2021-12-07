@@ -1,4 +1,4 @@
-package com.kangfenmaoreactnativewechatsdk;
+package com.kangfenmao.wechatsdk;
 
 import androidx.annotation.NonNull;
 
